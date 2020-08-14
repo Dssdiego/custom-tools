@@ -5,6 +5,6 @@ Custom tools for different purposes
 Ferramentas personalizadas para diferentes propósitos
 
 ## Stringy
-// TODO: Colocar print aqui
+![](https://github.com/Dssdiego/stringy/blob/master/design/main_screen.png)
 
-https://github.com/Dssdiego/stringy
+A tool for replacing strings, check it out [here](https://github.com/Dssdiego/stringy)
